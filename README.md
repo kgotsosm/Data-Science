@@ -1,4 +1,4 @@
-# Numbers, Data etc... 
+# All that data
 
 ## Data science projects and exercises
 --------------------------------------
