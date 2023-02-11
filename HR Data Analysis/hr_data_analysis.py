@@ -9,7 +9,7 @@ if __name__ == '__main__':
     if not os.path.exists('../Data'):
         os.mkdir('../Data')
 
-    # Download data if it is unavailable.
+    # Download data if it is unavailable
     if ('A_office_data.xml' not in os.listdir('../Data') and
         'B_office_data.xml' not in os.listdir('../Data') and
         'hr_data.xml' not in os.listdir('../Data')):
