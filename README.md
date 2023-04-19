@@ -32,9 +32,9 @@ Exercise 5: Summary Functions and Maps
 ## Usage
 Feel free to explore the projects and exercises in this repository to see how I applied the concepts covered in the Kaggle pandas learning track. You can run the code yourself by cloning this repository and running the notebooks in a Jupyter Notebook environment.
 
-# License
+### License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-#Certificate
+# Certificate
 
 ![Kgotso Makhalimele - Pandas](https://user-images.githubusercontent.com/89485688/223456986-a4fd9c14-de78-4ae0-8a6a-51afec1f50b7.png)
