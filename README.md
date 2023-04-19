@@ -20,9 +20,13 @@ Each project involves working with a real-world dataset and applying the concept
 **In addition to the projects, the Kaggle pandas learning track includes a variety of exercises that provide practice in using pandas to manipulate and analyze data. Some of the exercises I completed include:**
 
 Exercise 1: Creating, Reading And Writing
+
 Exercise 2: Grouping and Sorting
+
 Exercise 3: Indexing, Selecting and Assigning
+
 Exercise 4: Renaming and Combining
+
 Exercise 5: Summary Functions and Maps
 
 ## Usage
