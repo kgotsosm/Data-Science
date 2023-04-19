@@ -10,7 +10,7 @@
 ## Projects
 **The Kaggle pandas learning track includes several projects that provide hands-on experience in working with data using pandas. Some of the projects I completed include:**
 
-**Project 1: Dr. Semmelweis and the Discovery of Handwashing
+Project 1: Dr. Semmelweis and the Discovery of Handwashing
 Project 2: HR Data Analysis**
 
 Each project involves working with a real-world dataset and applying the concepts covered in the learning track to analyze the data and draw insights.
